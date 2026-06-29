@@ -1,0 +1,702 @@
+[
+  {
+    "title": "Neon Genesis EDM 2026",
+    "category": "Music Festival",
+    "description": "ระเบิดความมันส์ไปกับเทศกาลดนตรีอิเล็กทรอนิกส์ที่ยิ่งใหญ่ที่สุดแห่งปี รวบรวมดีเจระดับโลกมาไว้ที่นี่ที่เดียว พร้อมโปรดักชั่นแสงสีเสียงเลเซอร์สุดอลังการ สายตื๊ดและปาร์ตี้แอนิมอลห้ามพลาด แดนซ์กระจายตลอดคืน",
+    "location": "Bitec Bangna",
+    "price": 2500
+  },
+  {
+    "title": "Acoustic in the Pines",
+    "category": "Music Festival",
+    "description": "หลีกหนีความวุ่นวายมาฟังดนตรีอคูสติกชิลๆ กลางป่าสน อากาศเย็นสบายและบรรยากาศสุดโรแมนติก นั่งผิงไฟจิบเครื่องดื่มอุ่นๆ พร้อมบทเพลงจากศิลปินอินดี้ที่คุณรัก เหมาะสำหรับการพักผ่อนอย่างแท้จริง",
+    "location": "Khao Kho, Phetchabun",
+    "price": 1200
+  },
+  {
+    "title": "Jazz under the Stars",
+    "category": "Music Festival",
+    "description": "ดื่มด่ำกับมนต์เสน่ห์ของดนตรีแจ๊สคลาสสิกท่ามกลางแสงดาว ค่ำคืนสุดหรูที่เต็มไปด้วยท่วงทำนองของแซกโซโฟนและเปียโน พร้อมโซนไวน์เทสติ้งและอาหารพรีเมียม สำหรับผู้ที่หลงใหลในความสุนทรีย์",
+    "location": "Lumpini Park, Bangkok",
+    "price": 800
+  },
+  {
+    "title": "Rock Never Dies 90s",
+    "category": "Music Festival",
+    "description": "คอนเสิร์ตร็อกย้อนยุคยุค 90s ที่จะพาคุณกลับไปกระโดดและร้องตามเพลงฮิตในตำนาน กีตาร์แตกๆ เสียงกลองหนักหน่วง และพลังของชาวร็อกที่จะปลุกจิตวิญญาณวัยรุ่นอัลเทอร์เนทีฟในตัวคุณ",
+    "location": "Thunder Dome, Muang Thong Thani",
+    "price": 1500
+  },
+  {
+    "title": "Luk Thung Maha Sanook",
+    "category": "Music Festival",
+    "description": "เทศกาลดนตรีลูกทุ่งหมอลำซิ่งที่ม่วนที่สุดในสามโลก แดนเซอร์จัดเต็ม หางเครื่องสุดอลังการ สนุกสนานไปกับจังหวะโจ๊ะๆ ที่ทำให้คุณต้องลุกขึ้นเซิ้ง พร้อมซุ้มอาหารอีสานรสแซ่บ",
+    "location": "Khon Kaen International Convention Exhibition Center",
+    "price": 300
+  },
+  {
+    "title": "T-Pop Evolution Concert",
+    "category": "Music Festival",
+    "description": "รวมพลศิลปินและไอดอล T-Pop แถวหน้าของเมืองไทย เสพเพอร์ฟอร์แมนซ์สุดเป๊ะ ร้องเต้นจัดเต็ม พร้อมแท่งไฟและโปรเจกต์จากแฟนคลับ บรรยากาศเต็มไปด้วยพลังบวกและความสดใสของวัยรุ่น",
+    "location": "Impact Arena",
+    "price": 3500
+  },
+  {
+    "title": "Reggae Beach Vibes",
+    "category": "Music Festival",
+    "description": "ปล่อยใจไปกับจังหวะเรกเก้และสกาบนหาดทรายขาว สายลม แสงแดด และเสียงคลื่นเป็นฉากหลัง งานดนตรีที่รวมคนรักความชิลและอิสระเสรี พร้อมกิจกรรมเพ้นท์เสื้อและเวิร์กชอปทำเครื่องประดับทำมือ",
+    "location": "Koh Samed, Rayong",
+    "price": 900
+  },
+  {
+    "title": "Symphony of the River",
+    "category": "Music Festival",
+    "description": "การแสดงดนตรีออร์เคสตราวงใหญ่ริมแม่น้ำเจ้าพระยา ฟังเพลงคลาสสิกที่บรรเลงโดยนักดนตรีมืออาชีพกว่า 80 ชีวิต ผสมผสานกับการแสดงแสงไฟสะท้อนผิวน้ำที่งดงามตระการตา",
+    "location": "Asiatique The Riverfront",
+    "price": 2000
+  },
+  {
+    "title": "Hip Hop Street Jam",
+    "category": "Music Festival",
+    "description": "รันวงการฮิปฮอป! งานที่รวมแร็ปเปอร์ทั้งอันเดอร์กราวด์และเมนสตรีมมาแบทเทิลกันอย่างดุเดือด มีโซนพ่นกราฟฟิตี้ งานศิลปะแนวสตรีท และแฟชั่นสเก็ตบอร์ด ให้คุณได้แสดงตัวตนอย่างเต็มที่",
+    "location": "Siam Square",
+    "price": 500
+  },
+  {
+    "title": "K-Fever Cover Dance",
+    "category": "Music Festival",
+    "description": "เวทีประชันความสามารถของสายคัฟเวอร์แดนซ์เกาหลีที่ใหญ่ที่สุด จัดเต็มทั้งเสื้อผ้าหน้าผมและการเต้นที่เป๊ะทุกองศา พร้อมบูธขายสินค้า K-Pop และโซนแฟนด้อมให้ได้แลกเปลี่ยนของสะสม",
+    "location": "MBK Center",
+    "price": 0
+  },
+  {
+    "title": "Bangkok Street Food Fair",
+    "category": "Food Festival",
+    "description": "รวบรวมร้านอาหารสตรีทฟู้ดชื่อดังจากทุกตรอกซอกซอยในกรุงเทพฯ มาไว้ที่เดียว ตั้งแต่ผัดไทยหอยทอดไปจนถึงหมูปิ้งเตาถ่าน สัมผัสรสชาติความอร่อยแบบดั้งเดิมที่เข้าถึงง่ายและราคาประหยัด",
+    "location": "Central World Square",
+    "price": 0
+  },
+  {
+    "title": "Vegan & Plant-Based Fest",
+    "category": "Food Festival",
+    "description": "สวรรค์ของคนรักสุขภาพและชาววีแกน พบกับนวัตกรรมอาหาร Plant-based ที่รสชาติเหมือนเนื้อสัตว์จริง ขนมหวานปราศจากนมเนย และผักออร์แกนิกสดใหม่จากฟาร์ม เป็นมิตรต่อโลกและร่างกาย",
+    "location": "Samyan Mitrtown",
+    "price": 0
+  },
+  {
+    "title": "Craft Beer & BBQ Camp",
+    "category": "Food Festival",
+    "description": "เทศกาลคราฟต์เบียร์ที่รวบรวมบริวเวอร์หน้าใหม่ทั่วประเทศ จับคู่กับบาร์บีคิวรมควันและสเต็กเนื้อนุ่มๆ บรรยากาศแบบแคมป์ปิ้งกลางเมือง มีวงดนตรีเล่นสดเพิ่มอรรถรสในการดื่มด่ำ",
+    "location": "ChangChui Creative Park",
+    "price": 150
+  },
+  {
+    "title": "Coffee Roasters Gathering",
+    "category": "Food Festival",
+    "description": "งานรวมตัวของคนรักกาแฟสเปเชียลตี้ พบกับโรงคั่วชื่อดัง เมล็ดกาแฟสายพันธุ์หายาก และแชมป์บาริสต้าที่จะมาดริปกาแฟให้ชิมแบบแก้วต่อแก้ว พร้อมเวิร์กชอปการชิมกาแฟ (Cupping)",
+    "location": "Queen Sirikit National Convention Center",
+    "price": 200
+  },
+  {
+    "title": "Ocean Bounty Seafood Market",
+    "category": "Food Festival",
+    "description": "ยกทะเลมาไว้บนบก! เทศกาลอาหารทะเลสดๆ กุ้งหอยปูปลานำเข้าและจากประมงท้องถิ่น มีบริการปิ้งย่างและนึ่งพร้อมน้ำจิ้มซีฟู้ดรสเด็ด แข่งขันกินจุไข่แมงดา และโซนอาหารทะเลแปรรูป",
+    "location": "Pattaya City Hall",
+    "price": 0
+  },
+  {
+    "title": "Spicy Somtum Challenge",
+    "category": "Food Festival",
+    "description": "งานรวมมิตรความแซ่บ รวมร้านส้มตำ ยำ และอาหารอีสานรสจัดจ้าน ไฮไลท์คือการแข่งขันตำส้มตำลีลาและการแข่งกินเผ็ดทะลุพิกัด ใครสายปลาร้าและชอบความซี๊ดซ๊าดต้องไม่พลาด",
+    "location": "Udon Thani Park",
+    "price": 0
+  },
+  {
+    "title": "Sweet Tooth Dessert Fest",
+    "category": "Food Festival",
+    "description": "อาณาจักรของหวานสำหรับคนรักน้ำตาล รวมร้านเบเกอรี่ เค้ก ไอศกรีมโฮมเมด และขนมไทยประยุกต์ จุดถ่ายรูปสีพาสเทลสุดคิวท์ พร้อมโปรโมชั่นบุฟเฟต์เค้กที่ทานได้ไม่อั้น",
+    "location": "Siam Paragon",
+    "price": 50
+  },
+  {
+    "title": "Fine Dining Showcase",
+    "category": "Food Festival",
+    "description": "สัมผัสประสบการณ์อาหารระดับไฟน์ไดนิ่งจากเชฟมิชลินสตาร์ ในรูปแบบ Tasting Menu ย่อส่วน ศิลปะการจัดจานสุดประณีตและการจับคู่กับไวน์ชั้นเลิศ เป็นงานที่เน้นความหรูหราและพิถีพิถัน",
+    "location": "Iconsiam",
+    "price": 3500
+  },
+  {
+    "title": "Matcha & Tea Ceremony",
+    "category": "Food Festival",
+    "description": "นิทรรศการและการชิมชาเขียวมัทฉะเกรดพรีเมียมจากญี่ปุ่น เรียนรู้วิถีชงชาแบบดั้งเดิม (ชาโด) ขนมวากาชิ และชาเบลนด์สมุนไพร บรรยากาศในงานเงียบสงบ อบอวลไปด้วยกลิ่นหอมของชา",
+    "location": "J-Avenue Thonglor",
+    "price": 300
+  },
+  {
+    "title": "Durian Lovers Buffet",
+    "category": "Food Festival",
+    "description": "เทศกาลกินทุเรียนและผลไม้ไทยบุฟเฟต์ อิ่มไม่อั้นกับทุเรียนหมอนทอง ชะนี ก้านยาว และสายพันธุ์หายาก พร้อมมังคุด เงาะ ดับร้อน งานนี้เตรียมพุงมาให้พร้อมสำหรับราชาผลไม้",
+    "location": "Chanthaburi Fruit Market",
+    "price": 699
+  },
+  {
+    "title": "Abstract Canvas Exhibition",
+    "category": "Art & Culture",
+    "description": "นิทรรศการศิลปะนามธรรมจากศิลปินรุ่นใหม่ ตีความอารมณ์และความคิดผ่านสีสันและลายเส้นที่ไร้รูปแบบตายตัว ชวนให้ผู้ชมตั้งคำถามและค้นหาความหมายในมุมมองของตนเอง",
+    "location": "BACC (Bangkok Art and Culture Centre)",
+    "price": 0
+  },
+  {
+    "title": "Handcraft Makers Space",
+    "category": "Art & Culture",
+    "description": "ตลาดงานคราฟต์ทำมือและเวิร์กชอปศิลปะ มีทั้งงานเซรามิกปั้นดินเผา การย้อมผ้าคราม งานหนังทูลลิ่ง และเครื่องประดับเงิน เหมาะสำหรับสาย DIY ที่ชอบลงมือทำและชื่นชอบความยูนีค",
+    "location": "Nai Lert Park",
+    "price": 100
+  },
+  {
+    "title": "Digital Art & NFT Summit",
+    "category": "Art & Culture",
+    "description": "ก้าวสู่อนาคตของวงการศิลปะกับนิทรรศการศิลปะดิจิทัล 3D และ NFT พบปะครีเอเตอร์และนักสะสมคริปโต มีการประมูลผลงานศิลปะบนบล็อกเชนและเสวนาเรื่องลิขสิทธิ์ดิจิทัล",
+    "location": "True Digital Park",
+    "price": 500
+  },
+  {
+    "title": "Street Photography Walk",
+    "category": "Art & Culture",
+    "description": "นิทรรศการภาพถ่ายสตรีทที่สะท้อนวิถีชีวิตคนเมืองอย่างตรงไปตรงมา ภาพขาวดำที่บอกเล่าเรื่องราวที่ถูกมองข้าม พร้อมกิจกรรมทัวร์เดินถ่ายภาพย่านเมืองเก่ากับช่างภาพมืออาชีพ",
+    "location": "Song Wat Road",
+    "price": 0
+  },
+  {
+    "title": "National Book & Literature Fair",
+    "category": "Art & Culture",
+    "description": "สัปดาห์หนังสือแห่งชาติ พบปะนักเขียนชื่อดัง ช้อปหนังสือนิยาย วรรณกรรม การ์ตูน และหนังสือฮาวทูในราคาลดพิเศษ พร้อมฟังสัมมนาเปิดตัวหนังสือใหม่และรับลายเซ็นจากนักเขียนในดวงใจ",
+    "location": "QSNCC",
+    "price": 0
+  },
+  {
+    "title": "Traditional Khon Performance",
+    "category": "Art & Culture",
+    "description": "ชมการแสดงโขนพระราชทานชุดใหญ่ เครื่องแต่งกายวิจิตรตระการตาและฉากอลังการ สืบสานศิลปะการแสดงชั้นสูงของไทย พร้อมนิทรรศการเบื้องหลังการทำหัวโขนและปักดิ้นทอง",
+    "location": "Thailand Cultural Centre",
+    "price": 1200
+  },
+  {
+    "title": "Indie Short Film Festival",
+    "category": "Art & Culture",
+    "description": "เทศกาลฉายภาพยนตร์สั้นนอกกระแสจากผู้กำกับหน้าใหม่ ประเด็นสังคมที่เข้มข้นและความกล้าหาญในการเล่าเรื่อง หลังจบการฉายมี Q&A พูดคุยแลกเปลี่ยนทัศนะกับทีมสร้างโดยตรง",
+    "location": "House Samyan",
+    "price": 250
+  },
+  {
+    "title": "Cosplay & Anime Matsuri",
+    "category": "Art & Culture",
+    "description": "งานรวมพลคนรักอนิเมะและคอสเพลย์เยอร์ แต่งตัวจัดเต็มเป็นตัวละครโปรด มีบูธขายโดจินชิ สินค้าออฟฟิเชียล และเวทีประกวดคอสเพลย์พร้อมโชว์ร้องเพลงอนิซองสุดมันส์",
+    "location": "Royal Paragon Hall",
+    "price": 200
+  },
+  {
+    "title": "Sculpture in the Park",
+    "category": "Art & Culture",
+    "description": "นิทรรศการประติมากรรมกลางแจ้งขนาดใหญ่ จัดวางกลมกลืนไปกับธรรมชาติของสวนสาธารณะ เดินเล่นชมงานศิลปะที่ทำจากวัสดุรีไซเคิลและเหล็กกล้า ชวนตระหนักถึงสิ่งแวดล้อม",
+    "location": "Benjakitti Park",
+    "price": 0
+  },
+  {
+    "title": "Contemporary Dance Theater",
+    "category": "Art & Culture",
+    "description": "การแสดงศิลปะร่วมสมัยที่ผสมผสานการเต้นรำ กายกรรม และมัลติมีเดียเข้าด้วยกัน สื่อสารอารมณ์ลึกซึ้งผ่านการเคลื่อนไหวของร่างกายโดยไม่ใช้คำพูด เป็นงานศิลปะที่ท้าทายความคิด",
+    "location": "Lido Connect",
+    "price": 800
+  },
+  {
+    "title": "Midnight City Marathon",
+    "category": "Sports & Outdoors",
+    "description": "งานวิ่งมาราธอนกลางคืนที่ปิดถนนเส้นหลักของกรุงเทพฯ สัมผัสความท้าทายระยะ 42.195 กม. ท่ามกลางแสงไฟเมือง ไร้แสงแดดกวนใจ มีกองเชียร์และจุดให้น้ำที่ครึกครื้นตลอดเส้นทาง",
+    "location": "Sanam Luang",
+    "price": 1200
+  },
+  {
+    "title": "Jungle Trail Running",
+    "category": "Sports & Outdoors",
+    "description": "วิ่งเทรลผจญภัยบุกป่าฝ่าดง ข้ามลำธารและไต่เขาชัน ทดสอบความแข็งแกร่งของร่างกายและจิตใจบนเส้นทางธรรมชาติที่ดิบและท้าทาย เหมาะสำหรับนักวิ่งสายลุยที่เบื่อทางเรียบ",
+    "location": "Khao Yai National Park",
+    "price": 1800
+  },
+  {
+    "title": "Sunset Surf Festival",
+    "category": "Sports & Outdoors",
+    "description": "เทศกาลโต้คลื่นรับลมมรสุม มีการแข่งขันเซิร์ฟบอร์ดลีลา สอนเล่นเซิร์ฟเบื้องต้นสำหรับมือใหม่ และปาร์ตี้ริมหาดช่วงพระอาทิตย์ตกดิน พร้อมร้านขายอุปกรณ์กีฬาทางน้ำครบวงจร",
+    "location": "Kata Beach, Phuket",
+    "price": 0
+  },
+  {
+    "title": "Yoga Retreat in the Valley",
+    "category": "Sports & Outdoors",
+    "description": "งานรวมพลคนรักโยคะและการฝึกสมาธิ คลาสโยคะหลายระดับตั้งแต่หฐโยคะไปจนถึงวินยาสะ ท่ามกลางธรรมชาติที่โอบล้อมด้วยภูเขา เน้นการฟื้นฟูจิตใจและบำบัดความเครียดจากงาน",
+    "location": "Chiang Dao, Chiang Mai",
+    "price": 2500
+  },
+  {
+    "title": "Extreme Skatepark Jam",
+    "category": "Sports & Outdoors",
+    "description": "โชว์สกิลเอ็กซ์ตรีม ทั้งสเก็ตบอร์ด BMX และโรลเลอร์เบลด การแข่งขันกระโดดข้ามสิ่งกีดขวางและเล่นท่ายาก ดนตรีพังก์ร็อกมันส์ๆ และสตรีทแฟชั่นที่จัดจ้านของเหล่าวัยรุ่น",
+    "location": "Hua Mak Skatepark",
+    "price": 100
+  },
+  {
+    "title": "City Cycling Tour",
+    "category": "Sports & Outdoors",
+    "description": "ทริปปั่นจักรยานชมเมืองยามเช้าตรู่ แวะจุดสำคัญทางประวัติศาสตร์และชิมอาหารเช้าเจ้าเด็ด เป็นกิจกรรมปั่นแบบชิลๆ เน้นสุขภาพและการท่องเที่ยวเชิงอนุรักษ์ เหมาะกับครอบครัว",
+    "location": "Rattanakosin Island",
+    "price": 300
+  },
+  {
+    "title": "Ironman Triathlon Draft",
+    "category": "Sports & Outdoors",
+    "description": "การแข่งขันไตรกีฬา ว่ายน้ำ ปั่นจักรยาน และวิ่ง ต่อเนื่องสุดโหด งานที่รวบรวมมนุษย์เหล็กจากทั่วโลกมาทดสอบขีดจำกัดของร่างกาย มีโซนแสดงนวัตกรรมอุปกรณ์กีฬาเทคโนโลยีสูง",
+    "location": "Bangsaen Beach",
+    "price": 4500
+  },
+  {
+    "title": "Rock Climbing Challenge",
+    "category": "Sports & Outdoors",
+    "description": "เทศกาลปีนหน้าผาจริงบนภูเขาหินปูนระดับโลก มีรูทปีนตั้งแต่ระดับง่ายไปจนถึงระดับโปร พร้อมแคมป์ปิ้งรอบกองไฟแลกเปลี่ยนเทคนิคการปีนป่ายจากผู้เชี่ยวชาญ",
+    "location": "Railay Beach, Krabi",
+    "price": 1500
+  },
+  {
+    "title": "Camping & Outdoor Expo",
+    "category": "Sports & Outdoors",
+    "description": "มหกรรมแสดงสินค้าอุปกรณ์แคมป์ปิ้ง เต็นท์ ถุงนอน เก้าอี้แคมป์ และอุปกรณ์เดินป่า ลดราคาจัดเต็ม พร้อมสาธิตการเอาตัวรอดในป่าและการทำอาหารแคมป์ปิ้งสุดเก๋",
+    "location": "BITEC Bangna",
+    "price": 0
+  },
+  {
+    "title": "Scuba Diving Fair",
+    "category": "Sports & Outdoors",
+    "description": "งานสำหรับคนรักโลกใต้น้ำ รวมแพ็กเกจทริปดำน้ำลึก โรงเรียนสอนดำน้ำ และกล้องถ่ายภาพใต้น้ำ นิทรรศการภาพถ่ายสัตว์ทะเลหายากและรณรงค์อนุรักษ์แนวปะการัง",
+    "location": "Central Plaza Ladprao",
+    "price": 0
+  },
+  {
+    "title": "AI & Big Data Summit",
+    "category": "Tech & Innovation",
+    "description": "งานประชุมสัมมนาด้านปัญญาประดิษฐ์และวิทยาศาสตร์ข้อมูล เจาะลึกเทรนด์ Machine Learning การประยุกต์ใช้ AI ในธุรกิจ และการวิเคราะห์ข้อมูลขนาดใหญ่ เหมาะสำหรับ Developer และนักวิเคราะห์",
+    "location": "True Digital Park",
+    "price": 2000
+  },
+  {
+    "title": "Startup Pitching Stage",
+    "category": "Tech & Innovation",
+    "description": "เวทีประชันไอเดียธุรกิจของเหล่าสตาร์ทอัพหน้าใหม่ พิทช์โปรเจกต์ต่อหน้านักลงทุน (VC) เพื่อคว้าเงินทุนสนับสนุน ภายในงานมีโซน Networking ให้จับคู่พาร์ทเนอร์ทางธุรกิจ",
+    "location": "Samyan Mitrtown",
+    "price": 500
+  },
+  {
+    "title": "Web3 & Crypto Meetup",
+    "category": "Tech & Innovation",
+    "description": "อัปเดตเทรนด์โลกการเงินดิจิทัล บล็อกเชน และ Cryptocurrency เสวนาเจาะลึกทิศทางตลาดคริปโต การทำ DeFi และ Smart Contract พื้นที่พบปะของนักเทรดและนักพัฒนาสายบล็อกเชน",
+    "location": "QSNCC",
+    "price": 1000
+  },
+  {
+    "title": "Game Developer Expo",
+    "category": "Tech & Innovation",
+    "description": "เทศกาลคนทำเกม โชว์ผลงานเกมอินดี้ฝีมือคนไทยและเกมฟอร์มยักษ์ ทดลองเล่นเกมก่อนวางจำหน่ายจริง (Early Access) และสัมมนาเบื้องหลังการเขียนโค้ดและออกแบบ 3D Animation",
+    "location": "Bitec Bangna",
+    "price": 250
+  },
+  {
+    "title": "Cybersecurity Hackathon",
+    "category": "Tech & Innovation",
+    "description": "การแข่งขันแฮกกาธอนด้านความปลอดภัยทางไซเบอร์ ค้นหาช่องโหว่ของระบบและป้องกันการโจมตีจากแฮกเกอร์จำลอง ชิงเงินรางวัลและโอกาสเข้าทำงานในบริษัทเทคชั้นนำ",
+    "location": "KMITL",
+    "price": 0
+  },
+  {
+    "title": "Smart Home & IoT Fair",
+    "category": "Tech & Innovation",
+    "description": "นิทรรศการนวัตกรรมบ้านอัจฉริยะ อุปกรณ์ Internet of Things ที่สั่งงานด้วยเสียงและมือถือ ทดลองใช้หุ่นยนต์ดูดฝุ่น ระบบเปิดปิดไฟอัตโนมัติ และแกดเจ็ตล้ำยุคสำหรับที่อยู่อาศัย",
+    "location": "Impact Muang Thong Thani",
+    "price": 0
+  },
+  {
+    "title": "E-Commerce Masterclass",
+    "category": "Tech & Innovation",
+    "description": "งานสัมมนาสำหรับพ่อค้าแม่ค้าออนไลน์ เจาะลึกเทคนิคการยิงแอดโฆษณา การทำ Affiliate Marketing และการใช้เครื่องมือ AI ช่วยตอบแชทลูกค้า เพิ่มยอดขายทะลุเป้า",
+    "location": "Centara Grand at CentralWorld",
+    "price": 1500
+  },
+  {
+    "title": "Space & Astronomy Day",
+    "category": "Tech & Innovation",
+    "description": "เปิดโลกดาราศาสตร์และเทคโนโลยีอวกาศ ส่องกล้องดูดาวเคราะห์ จัดแสดงโมเดลจรวดและชุดนักบินอวกาศ มีเสวนาจากนักวิจัยเรื่องการค้นพบดาวเคราะห์นอกระบบสุริยะ",
+    "location": "National Science Museum",
+    "price": 100
+  },
+  {
+    "title": "Maker Faire Bangkok",
+    "category": "Tech & Innovation",
+    "description": "งานรวมพลนักประดิษฐ์สายเมกเกอร์ นำเสนอสิ่งประดิษฐ์ DIY หุ่นยนต์ทำมือ บอร์ดไมโครคอนโทรลเลอร์ และเครื่องพิมพ์ 3 มิติ เน้นการเรียนรู้แบบลงมือทำและจุดประกายความคิดสร้างสรรค์",
+    "location": "The Street Ratchada",
+    "price": 0
+  },
+  {
+    "title": "FinTech Future Tech",
+    "category": "Tech & Innovation",
+    "description": "นิทรรศการเทคโนโลยีการเงิน โชว์นวัตกรรมแอปพลิเคชันธนาคาร การชำระเงินไร้สัมผัส และระบบอนุมัติสินเชื่อด้วย AI เหมาะสำหรับบุคคลทั่วไปที่ต้องการอัปเดตเทรนด์การเงินยุคใหม่",
+    "location": "Siam Paragon",
+    "price": 0
+  },
+  {
+    "title": "Songkran Water Splash",
+    "category": "Culture & Traditional",
+    "description": "เทศกาลสงกรานต์สุดยิ่งใหญ่ ปิดถนนเล่นน้ำกันอย่างบ้าคลั่ง มีรถน้ำ อุโมงค์น้ำพุ และเวทีดีเจเปิดเพลงแดนซ์กลางแจ้ง สนุกสุดเหวี่ยงและเปียกปอนกันไปตลอดทั้งวัน",
+    "location": "Khao San Road",
+    "price": 0
+  },
+  {
+    "title": "Loy Krathong Lantern Festival",
+    "category": "Culture & Traditional",
+    "description": "ประเพณีลอยกระทงและปล่อยโคมลอยล้านนา ชมความงดงามของแสงเทียนนับหมื่นดวงที่ล่องลอยบนท้องฟ้าและแม่น้ำ มีการประกวดนางนพมาศและตลาดนัดอาหารพื้นเมือง",
+    "location": "Chiang Mai",
+    "price": 0
+  },
+  {
+    "title": "Phitakhon Ghost Festival",
+    "category": "Culture & Traditional",
+    "description": "ประเพณีผีตาโขนอันเป็นเอกลักษณ์ ชมขบวนแห่หน้ากากผีสีสันสดใสที่ทำจากหอกมะพร้าว สนุกสนานไปกับการละเล่นพื้นบ้านและดนตรีพื้นเมืองที่เร้าใจ เป็นงานวัฒนธรรมที่สนุกและแปลกตา",
+    "location": "Dan Sai, Loei",
+    "price": 0
+  },
+  {
+    "title": "Chinatown Lunar New Year",
+    "category": "Culture & Traditional",
+    "description": "เฉลิมฉลองเทศกาลตรุษจีน ตื่นตากับการเชิดมังกรและสิงโตปีนเสาดอกเหมย โคมไฟสีแดงประดับประดาเต็มถนน พร้อมไหว้พระขอพรและตะลุยกินอาหารจีนสตรีทฟู้ดระดับตำนาน",
+    "location": "Yaowarat Road",
+    "price": 0
+  },
+  {
+    "title": "Temple Fair & Ferris Wheel",
+    "category": "Culture & Traditional",
+    "description": "ย้อนวันวานกับงานวัดสไตล์คลาสสิก นั่งชิงช้าสวรรค์ ปาโป่ง ยิงปืนจุกน้ำปลา สาวน้อยตกน้ำ พร้อมกินสายไหมและแมลงทอด บรรยากาศอบอุ่นและเต็มไปด้วยรอยยิ้มของครอบครัว",
+    "location": "Wat Saket (Golden Mount)",
+    "price": 20
+  },
+  {
+    "title": "Silk & Thai Weaving Expo",
+    "category": "Culture & Traditional",
+    "description": "งานแสดงสินค้าผ้าไหมและผ้าทอมือจากภูมิปัญญาชาวบ้านทั่วประเทศ ชมสาธิตการสาวไหม การย้อมสีธรรมชาติ และเลือกซื้อผ้าไทยลายโบราณที่หายาก ทรงคุณค่าและสวยงาม",
+    "location": "Queen Sirikit Museum of Textiles",
+    "price": 100
+  },
+  {
+    "title": "Long Boat Racing Championship",
+    "category": "Culture & Traditional",
+    "description": "ประเพณีแข่งขันเรือยาวชิงถ้วยพระราชทาน เสียงเชียร์กระหึ่มสองฝั่งแม่น้ำ ชมฝีพายที่พร้อมเพรียงและจังหวะกลองรบที่เร้าใจ เป็นกีฬาท้องถิ่นที่แสดงถึงความสามัคคี",
+    "location": "Phichit",
+    "price": 0
+  },
+  {
+    "title": "International Kite Festival",
+    "category": "Culture & Traditional",
+    "description": "เทศกาลว่าวนานาชาติ ท้องฟ้าเต็มไปด้วยว่าวแฟนซีรูปสัตว์ขนาดยักษ์ ว่าวผาดโผน และว่าวไทยจุฬา-ปักเป้า มีเวิร์กชอปทำว่าวสำหรับเด็กๆ และปิกนิกรับลมเย็นริมชายหาด",
+    "location": "Hua Hin Beach",
+    "price": 0
+  },
+  {
+    "title": "Candle Festival Parade",
+    "category": "Culture & Traditional",
+    "description": "งานแห่เทียนพรรษาสุดอลังการ ชมขบวนรถต้นเทียนที่แกะสลักอย่างวิจิตรบรรจงเป็นเรื่องราวพุทธประวัติ ผลงานช่างฝีมือชั้นครู พร้อมการแสดงฟ้อนรำศิลปะอีสานที่งดงาม",
+    "location": "Ubon Ratchathani",
+    "price": 0
+  },
+  {
+    "title": "Vegetarian Festival (Kin Jay)",
+    "category": "Culture & Traditional",
+    "description": "เทศกาลกินเจ 9 วัน 9 คืน ชำระล้างร่างกายและจิตใจ เต็มไปด้วยซุ้มอาหารเจอร่อยๆ หลากหลายเมนู ไฮไลท์คือพิธีลุยไฟและขบวนแห่ม้าทรงที่แสดงอภินิหารตามความเชื่อศักดิ์สิทธิ์",
+    "location": "Phuket",
+    "price": 0
+  },
+  {
+    "title": "Vintage Flea & Antiques",
+    "category": "Lifestyle & Hobbies",
+    "description": "ตลาดนัดของเก่าและเสื้อผ้าวินเทจ รวบรวมแผ่นเสียงคลาสสิก กล้องฟิล์ม เฟอร์นิเจอร์ไม้สไตล์เรโทร และเสื้อผ้ายุค 80s สวรรค์ของนักสะสมและคนรักความคลาสสิกที่ชอบเดินคุ้ยของแรร์",
+    "location": "Chatuchak Playground",
+    "price": 0
+  },
+  {
+    "title": "Pet Lovers Expo",
+    "category": "Lifestyle & Hobbies",
+    "description": "มหกรรมคนรักสัตว์เลี้ยง พาเจ้านายสี่ขามาเดินเล่น ช้อปปิ้งอาหารและของเล่นสัตว์เลี้ยงราคาพิเศษ ชมการโชว์ความสามารถของสุนัข และโซนคาเฟ่สัตว์แปลก (Exotic Pets) ให้สัมผัสใกล้ชิด",
+    "location": "Impact Exhibition Center",
+    "price": 100
+  },
+  {
+    "title": "Plant & Garden Market",
+    "category": "Lifestyle & Hobbies",
+    "description": "ตลาดต้นไม้สำหรับสายกรีน รวมไม้ด่าง ไม้ฟอกอากาศ แคคตัส และอุปกรณ์จัดสวน มีผู้เชี่ยวชาญให้คำแนะนำการปลูกพืชในคอนโด และเวิร์กชอปจัดสวนขวดแก้ว (Terrarium)",
+    "location": "Bang Krachao",
+    "price": 0
+  },
+  {
+    "title": "Board Game Marathon",
+    "category": "Lifestyle & Hobbies",
+    "description": "เทศกาลบอร์ดเกมที่รวมนักเล่นทุกระดับ ทดลองเล่นบอร์ดเกมออกใหม่ เกมแนวปาร์ตี้ฮาๆ และเกมวางแผนกลยุทธ์สุดลึกซึ้ง มีโต๊ะให้นั่งเล่นยาวๆ พร้อมทีมงานคอยสอนกติกาให้ฟรี",
+    "location": "Samyan Mitrtown",
+    "price": 150
+  },
+  {
+    "title": "Tarot & Astrology Fair",
+    "category": "Lifestyle & Hobbies",
+    "description": "งานรวมพลสายมูเตลู ดูดวงไพ่ยิปซี ลายมือ และโหราศาสตร์ไทยจากหมอดูชื่อดัง เครื่องรางของขลัง หินมงคล และกำไลเสริมดวง มีให้เลือกช้อปเพื่อเสริมความปังรอบด้าน",
+    "location": "Union Mall",
+    "price": 0
+  },
+  {
+    "title": "Wellness & Spa Retreat",
+    "category": "Lifestyle & Hobbies",
+    "description": "มหกรรมสุขภาพและความงาม ทดลองนวดผ่อนคลายสปาอโรมา ซื้อคอร์สทำหน้าและเลเซอร์ราคาโปรโมชั่น นิทรรศการสมุนไพรบำบัด และคลาสสอนทำลูกประคบด้วยตัวเอง",
+    "location": "QSNCC",
+    "price": 50
+  },
+  {
+    "title": "Classic Car Showcase",
+    "category": "Lifestyle & Hobbies",
+    "description": "นิทรรศการรถยนต์คลาสสิกและรถโบราณที่หาดูยาก เครื่องยนต์ทรงพลังและดีไซน์ที่เหนือกาลเวลา พบปะกลุ่มคนรักรถ แลกเปลี่ยนอะไหล่ และถ่ายรูปกับรถในฝันสไตล์เรโทร",
+    "location": "Future Park Rangsit",
+    "price": 0
+  },
+  {
+    "title": "Sneakerhead Convention",
+    "category": "Lifestyle & Hobbies",
+    "description": "งานรวมรองเท้าผ้าใบหายากและรุ่นลิมิเต็ดเอดิชั่น มีการเทรด (Trade) รองเท้า แข่งขันแต่งตัวสตรีทแฟชั่น และบริการทำความสะอาดรองเท้าแบบพรีเมียม สายแฟชั่นห้ามพลาด",
+    "location": "Siam Square One",
+    "price": 100
+  },
+  {
+    "title": "Mental Health & Self-Care",
+    "category": "Lifestyle & Hobbies",
+    "description": "นิทรรศการฮีลใจ ให้ความรู้เรื่องสุขภาพจิต อาการซึมเศร้า และความเครียด มีมุมนั่งสมาธิ กิจกรรมศิลปะบำบัด และคลินิกปรึกษานักจิตวิทยาฟรี บรรยากาศเป็นพื้นที่ปลอดภัยและอบอุ่น",
+    "location": "BACC",
+    "price": 0
+  },
+  {
+    "title": "Film Photography Swap",
+    "category": "Lifestyle & Hobbies",
+    "description": "ตลาดนัดคนเล่นกล้องฟิล์ม ซื้อขายแลกเปลี่ยนกล้องฟิล์ม เลนส์มือหมุน และฟิล์มบูด นิทรรศการล้างรูปล้างฟิล์มในห้องมืด และทอล์คโชว์จากช่างภาพสายอนาล็อก",
+    "location": "Lhong 1919",
+    "price": 0
+  },
+  {
+    "title": "Music & Arts in the Park",
+    "category": "Mixed / Crossover",
+    "description": "เทศกาลผสมผสานดนตรีอินดี้ป็อปกับงานอาร์ตอินสตอลเลชันในสวนสาธารณะ ปูเสื่อปิกนิกฟังเพลงสบายๆ ช้อปปิ้งงานคราฟต์ และถ่ายรูปกับบอลลูนยักษ์ประดับไฟในตอนกลางคืน",
+    "location": "Suan Luang Rama IX",
+    "price": 300
+  },
+  {
+    "title": "Food Truck & Live Band",
+    "category": "Mixed / Crossover",
+    "description": "ขบวนฟู้ดทรัคกว่า 50 คันที่เสิร์ฟตั้งแต่อเมริกันเบอร์เกอร์ไปจนถึงทาโก้เม็กซิกัน ทานอาหารพร้อมฟังดนตรีสดจากวงร็อกและป็อปหน้าใหม่ พื้นที่ชิลเอาท์หลังเลิกงานของคนเมือง",
+    "location": "Asiatique The Riverfront",
+    "price": 0
+  },
+  {
+    "title": "Camping & Movie Night",
+    "category": "Mixed / Crossover",
+    "description": "สัมผัสประสบการณ์ดูหนังกลางแปลงบรรยากาศแคมป์ปิ้ง นอนเตียงผ้าใบหรือกางเต็นท์รับลมหนาว มีป๊อปคอร์นร้อนๆ และเครื่องดื่มให้บริการ เป็นการดูหนังที่โรแมนติกและแปลกใหม่",
+    "location": "Khao Yai",
+    "price": 400
+  },
+  {
+    "title": "Stand-up Comedy & Craft Beer",
+    "category": "Mixed / Crossover",
+    "description": "หัวเราะจนปอดโยกกับการแสดงเดี่ยวไมโครโฟนจากคอมเมเดียนตัวตึง จิบเรดเอลและไอพีเอเย็นๆ ในบาร์ลับ บรรยากาศเป็นกันเอง มุกตลกเสียดสีสังคมและเรื่องราวรอบตัว",
+    "location": "Thonglor, Bangkok",
+    "price": 600
+  },
+  {
+    "title": "Illumination Light Art Festival",
+    "category": "Mixed / Crossover",
+    "description": "เทศกาลจัดแสดงแสงสีเสียงและ Projection Mapping ลงบนสถาปัตยกรรมตึกเก่า เล่าเรื่องราวประวัติศาสตร์ชุมชนผ่านแสงไฟล้ำสมัย เปลี่ยนเมืองเก่าให้กลายเป็นพิพิธภัณฑ์ยามค่ำคืน",
+    "location": "Phra Nakhon District",
+    "price": 0
+  },
+  {
+    "title": "Magic & Illusion Show",
+    "category": "Mixed / Crossover",
+    "description": "ตื่นตากับโชว์มายากลระดับโลก การแสดงลวงตาที่ท้าทายกฎฟิสิกส์ อ่านใจ และหลบหนีพันธนาการ เหมาะสำหรับผู้ชมทุกเพศทุกวัยที่จะได้ระทึกขวัญและตื่นเต้นไปพร้อมกัน",
+    "location": "Aksra Theatre",
+    "price": 1200
+  },
+  {
+    "title": "Poetry Slam & Jazz",
+    "category": "Mixed / Crossover",
+    "description": "เวทีประชันบทกวีแบบสดๆ นักกวีร่ายกลอนพร้อมการด้นสดของดนตรีแจ๊ส อารมณ์ดิบเถื่อนและงดงามผสมผสานกัน เป็นงานศิลปะใต้ดินที่เน้นการปลดปล่อยความรู้สึกผ่านตัวอักษรและเสียง",
+    "location": "Charoen Krung",
+    "price": 200
+  },
+  {
+    "title": "K-Culture & Food Fest",
+    "category": "Mixed / Crossover",
+    "description": "ยกเกาหลีมาไว้ที่นี่! รวมทั้งการแสดงเต้น K-Pop ตลาดอาหารสตรีทฟู้ดต๊อกบกกีและไก่ทอดซอสเกาหลี บูธเช่าชุดฮันบกถ่ายรูป และกิจกรรมแข่งขันทำกิมจิ ครบจบในงานเดียว",
+    "location": "Central Plaza Westgate",
+    "price": 0
+  },
+  {
+    "title": "J-Festa: Anime & Ramen",
+    "category": "Mixed / Crossover",
+    "description": "ดื่มด่ำวัฒนธรรมญี่ปุ่นแท้ๆ จัดเต็มร้านราเมนต้นตำรับและทาโกะยากิ มีโซนขายของเล่นฟิกเกอร์อนิเมะ และเวทีโชว์ตีกลองไทโกะสุดเร้าใจ เหมือนได้เดินงานเทศกาลฤดูร้อนในโตเกียว",
+    "location": "Siam Paragon",
+    "price": 0
+  },
+  {
+    "title": "Eco-Friendly Lifestyle Market",
+    "category": "Mixed / Crossover",
+    "description": "ตลาดนัดรักษ์โลก ขายนวัตกรรมสินค้า Zero Waste ของใช้ที่ย่อยสลายได้ อาหารออร์แกนิก และดนตรีอคูสติกที่ไม่ใช้ไฟฟ้า รณรงค์ให้พกแก้วและถุงผ้ามาเองเพื่อลดขยะพลาสติก",
+    "location": "Chulalongkorn Centenary Park",
+    "price": 0
+  },
+  {
+    "title": "Lanna Handicraft & Coffee",
+    "category": "Local / Regional",
+    "description": "แอ่วเหนือสัมผัสวิถีล้านนา ชิมกาแฟอาราบิก้าจากยอดดอย ช้อปปิ้งร่มบ่อสร้างและเครื่องเงิน มีการฟ้อนเล็บและสะล้อซอซึงบรรเลงคลอ อากาศเย็นสบายท่ามกลางสถาปัตยกรรมไม้สัก",
+    "location": "Tha Phae Gate, Chiang Mai",
+    "price": 0
+  },
+  {
+    "title": "Isan Music & Spicy Food",
+    "category": "Local / Regional",
+    "description": "ม่วนซื่นโฮแซวกับงานอีสานแฟร์ ฟังหมอลำอินดี้และพิณแคนประยุกต์ จัดเต็มเมนูส้มตำปลาร้า ลาบขม และเนื้อย่างโคขุน เป็นงานที่สะท้อนวิถีชีวิตที่สนุกสนานและรสชาติที่จัดจ้าน",
+    "location": "Khao Yai",
+    "price": 100
+  },
+  {
+    "title": "Southern Batik & Seafood",
+    "category": "Local / Regional",
+    "description": "เทศกาลของดีแดนใต้ ชมแฟชั่นโชว์ผ้าบาติกสีสันสดใส ลิ้มรสอาหารใต้รสเผ็ดร้อนอย่างแกงไตปลาและคั่วกลิ้ง พร้อมอาหารทะเลสดๆ จากฝั่งอันดามัน มีโชว์หนังตะลุงและมโนราห์",
+    "location": "Songkhla",
+    "price": 0
+  },
+  {
+    "title": "Hill Tribe Cultural Market",
+    "category": "Local / Regional",
+    "description": "เรียนรู้วิถีชีวิตชาวไทยภูเขาหลายเผ่าพันธุ์ ซื้อผ้าปักชาวเขา ชาอัสสัม และผลไม้เมืองหนาว สัมผัสความบริสุทธิ์ของธรรมชาติและวัฒนธรรมดั้งเดิมที่ยังคงถูกอนุรักษ์ไว้",
+    "location": "Doi Tung, Chiang Rai",
+    "price": 50
+  },
+  {
+    "title": "Central River Market Fest",
+    "category": "Local / Regional",
+    "description": "จำลองบรรยากาศตลาดน้ำภาคกลาง พ่อค้าแม่ค้าพายเรือขายก๋วยเตี๋ยวเรือ ขนมไทยโบราณ และผลไม้ตามฤดูกาล ชมการแสดงรำวงย้อนยุคและการละเล่นทางน้ำ นั่งเรือหางยาวชมวิว",
+    "location": "Amphawa, Samut Songkhram",
+    "price": 0
+  },
+  {
+    "title": "Mango & Sticky Rice Day",
+    "category": "Local / Regional",
+    "description": "เทศกาลฉลองฤดูกาลมะม่วงน้ำดอกไม้ รวบรวมข้าวเหนียวมะม่วงจากร้านดังทั่วประเทศ มีทั้งเมนูฟิวชั่นอย่างไอศกรีมมะม่วงและบิงซู แข่งขันปอกมะม่วงและกินจุข้าวเหนียวมูล",
+    "location": "Chachoengsao",
+    "price": 0
+  },
+  {
+    "title": "OTOP Midyear Expo",
+    "category": "Local / Regional",
+    "description": "มหกรรมสินค้า OTOP หนึ่งตำบลหนึ่งผลิตภัณฑ์ที่ใหญ่ที่สุดในประเทศ ยกขบวนของดีของเด็ด 77 จังหวัด ทั้งอาหาร ของใช้ สมุนไพร และงานฝีมือมาให้ช้อปในราคาผู้ผลิตโดยตรง",
+    "location": "Impact Challenger",
+    "price": 0
+  },
+  {
+    "title": "Local Farm Organic Tour",
+    "category": "Local / Regional",
+    "description": "ทริปท่องเที่ยวเชิงเกษตร พาชมฟาร์มผักออร์แกนิกและฟาร์มโคนม กิจกรรมรีดนมวัว เก็บไข่ไก่ และทำพิซซ่าจากเตาดินเผาด้วยวัตถุดิบสดๆ ในฟาร์ม เหมาะกับทริปครอบครัวช่วงวันหยุด",
+    "location": "Saraburi",
+    "price": 800
+  },
+  {
+    "title": "Phuket Old Town Festival",
+    "category": "Local / Regional",
+    "description": "ปิดถนนถลางเฉลิมฉลองเมืองเก่าภูเก็ต สถาปัตยกรรมชิโนโปรตุกีสประดับไฟสวยงาม ชิมอาหารพื้นเมืองอย่างหมูฮ้องและโอ้เอ๋ว ชมขบวนพาเหรดชุดบาบ๋า-ย่าหยา วัฒนธรรมเปอรานากัน",
+    "location": "Phuket Old Town",
+    "price": 0
+  },
+  {
+    "title": "Salim & Thai Dessert Fest",
+    "category": "Local / Regional",
+    "description": "รวบรวมขนมไทยน้ำกะทิ ซาหริ่ม ทับทิมกรอบ และลอดช่อง จัดเสิร์ฟในถ้วยดินเผา หอมกลิ่นควันเทียนและน้ำลอยดอกมะลิ นิทรรศการประวัติขนมไทยและการสาธิตทำขนมชาววัง",
+    "location": "Phetchaburi",
+    "price": 0
+  },
+  {
+    "title": "International Motor Expo",
+    "category": "Mega Events / Expos",
+    "description": "มหกรรมยานยนต์ยิ่งใหญ่ส่งท้ายปี โชว์รถยนต์คอนเซปต์คาร์ รถยนต์ไฟฟ้า (EV) รุ่นใหม่ล่าสุด และบิ๊กไบค์ พร้อมโปรโมชั่นจองรถสุดคุ้มและพริตตี้สาวสวยที่สร้างสีสันให้งาน",
+    "location": "Impact Challenger",
+    "price": 100
+  },
+  {
+    "title": "Home & Furniture Fair",
+    "category": "Mega Events / Expos",
+    "description": "งานแฟร์เพื่อคนรักบ้าน รวบรวมเฟอร์นิเจอร์ วัสดุก่อสร้าง และของตกแต่งบ้านลดล้างสต็อก มีโซนให้คำปรึกษาเรื่องการออกแบบตกแต่งภายในและการขอสินเชื่อบ้านแบบครบวงจร",
+    "location": "Bitec Bangna",
+    "price": 0
+  },
+  {
+    "title": "World Travel Fair",
+    "category": "Mega Events / Expos",
+    "description": "มหกรรมท่องเที่ยวที่รวมตั๋วเครื่องบิน ที่พัก แพ็กเกจทัวร์ทั้งในและต่างประเทศในราคาหั่นแหลก วางแผนทริปหยุดยาวของคุณที่นี่ พร้อมลุ้นรับรางวัลที่พักฟรีในบูธต่างๆ",
+    "location": "QSNCC",
+    "price": 0
+  },
+  {
+    "title": "Wedding & Romance Expo",
+    "category": "Mega Events / Expos",
+    "description": "งานเดียวจบครบเรื่องแต่งงาน เวดดิ้งสตูดิโอ ชุดแต่งงาน แหวนเพชร และแพ็กเกจจัดงานแต่งในโรงแรมหรู ชมแฟชั่นโชว์ชุดเจ้าสาวและรับคำปรึกษาจากแพลนเนอร์มืออาชีพ",
+    "location": "Siam Paragon",
+    "price": 0
+  },
+  {
+    "title": "Baby & Kids Best Buy",
+    "category": "Mega Events / Expos",
+    "description": "สวรรค์ของคุณแม่นักช้อป งานแฟร์สินค้าแม่และเด็ก รถเข็น คาร์ซีท นมผง และเสื้อผ้าเด็ก ลดราคาสูงสุด 80% มีกิจกรรมคลานแข่งสำหรับเด็กเล็กและฟังสัมมนาพัฒนาการเด็ก",
+    "location": "Impact Muang Thong Thani",
+    "price": 0
+  },
+  {
+    "title": "Franchise & SME Expo",
+    "category": "Mega Events / Expos",
+    "description": "งานชี้ช่องรวยสำหรับคนอยากมีธุรกิจส่วนตัว รวบรวมแฟรนไชส์ชานมไข่มุก ร้านสะดวกซัก และร้านอาหาร ลงทุนเริ่มต้นหลักหมื่น ฟังเคล็ดลับความสำเร็จจากนักธุรกิจรุ่นใหม่",
+    "location": "Bitec Bangna",
+    "price": 0
+  },
+  {
+    "title": "Beauty & Cosmetics Fest",
+    "category": "Mega Events / Expos",
+    "description": "อัปเดตเทรนด์แต่งหน้าและสกินแคร์ มหกรรมลดราคาเครื่องสำอางแบรนด์ดัง เวิร์กชอปสอนแต่งหน้าจากบิวตี้บล็อกเกอร์ และนวัตกรรมคลินิกความงาม ศัลยกรรมลดราคาพิเศษ",
+    "location": "Central World",
+    "price": 0
+  },
+  {
+    "title": "Sports Equipment Expo",
+    "category": "Mega Events / Expos",
+    "description": "งานเคลียร์สต็อกอุปกรณ์กีฬา รองเท้าวิ่ง ชุดออกกำลังกาย อุปกรณ์ฟิตเนส และไม้กอล์ฟ แบรนด์ชั้นนำหั่นราคาลดกระหน่ำ พร้อมโซนทดสอบอุปกรณ์กีฬาเทคโนโลยีใหม่",
+    "location": "QSNCC",
+    "price": 0
+  },
+  {
+    "title": "Overseas Education Fair",
+    "category": "Mega Events / Expos",
+    "description": "นิทรรศการศึกษาต่อต่างประเทศ พบปะตัวแทนมหาวิทยาลัยจากอังกฤษ อเมริกา ออสเตรเลีย ให้คำปรึกษาเรื่องการขอทุนการศึกษา วีซ่า และทดสอบวัดระดับภาษาอังกฤษฟรี",
+    "location": "Samyan Mitrtown",
+    "price": 0
+  },
+  {
+    "title": "Health & Fitness Convention",
+    "category": "Mega Events / Expos",
+    "description": "งานแฟร์เพื่อคนรักสุขภาพ โชว์คลาสเต้นซุมบ้าและบอดี้คอมแบท ช้อปปิ้งเวย์โปรตีน อาหารคลีน และวิตามินบำรุง ตรวจสุขภาพเบื้องต้นฟรีและฟังสัมมนาการสร้างกล้ามเนื้อ",
+    "location": "Impact Exhibition Center",
+    "price": 0
+  }
+]
