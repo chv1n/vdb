@@ -1,13 +1,19 @@
 import { Injectable } from '@nestjs/common';
 import { ConfigService } from '@nestjs/config';
-import { CreateFestivalDto } from './dto/create-festival.dto';
-import { UpdateFestivalDto } from './dto/update-festival.dto';
+import { InjectModel } from '@nestjs/mongoose';
 import { OpenAIEmbeddings } from '@langchain/openai';
 import { OllamaEmbeddings } from '@langchain/ollama';
+import { Model } from 'mongoose';
+import { Festival } from './schema/festival.entity';
+import { CreateFestivalDto } from './dto/create-festival.dto';
 
 @Injectable()
 export class FestivalService {
-  constructor(private readonly configService: ConfigService) {}
+  constructor(
+    private readonly configService: ConfigService,
+    @InjectModel(Festival.name)
+    private readonly festivalModel: Model<Festival>,
+  ) { }
 
   private getEmbeddings() {
     const provider = this.configService.get<string>('EMBEDDING_PROVIDER');
@@ -42,16 +48,51 @@ export class FestivalService {
     });
   }
 
-  create(createFestivalDto: CreateFestivalDto) {
-    return 'This action adds a new festival';
+  async createFestival(dto: CreateFestivalDto) {
+    const embeddings = this.getEmbeddings();
+    const vector = await embeddings.embedQuery(dto.description);
+
+    return this.festivalModel.create({
+      title: dto.title,
+      category: dto.category,
+      description: dto.description,
+      location: dto.location,
+      price: dto.price,
+      vector,
+    });
   }
 
-  async findAll() {
-    const text = 'travel chiang mai';
-    const embeddings = this.getEmbeddings();
-    const vector = await embeddings.embedQuery(text);
-    console.log('VECTOR', vector);
-    return vector;
+  async searchFestivals(userQuery: string, limit = 5) {
+
+    try {
+      const embeddings = this.getEmbeddings();
+      const queryVector = await embeddings.embedQuery(userQuery);
+
+      const data = await this.festivalModel.aggregate([
+        {
+          $vectorSearch: {
+            index: 'autoembed_index',     // ชื่อ Index ที่คุณตั้งไว้ใน MongoDB Atlas
+            path: 'vector',            // ชื่อฟิลด์ที่เก็บ Vector ใน Document
+            queryVector: queryVector,  // Vector คำค้นหาของผู้ใช้
+            numCandidates: 100,        // จำนวนเอกสารสูงสุดที่จะนำมาคำนวณเบื้องต้น
+            limit: limit,              // จำนวนผลลัพธ์สูงสุดที่ต้องการส่งกลับ
+          },
+        },
+        {
+          $project: {
+            title: 1,
+            description: 1,
+            score: { $meta: 'searchScore' },
+          },
+        },
+      ]);
+      return data
+
+    }
+    catch (e) {
+      console.error(e)
+    }
+
   }
 
 

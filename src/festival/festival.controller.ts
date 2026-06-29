@@ -1,7 +1,7 @@
-import { Controller, Get, Post, Body, Patch, Param, Delete } from '@nestjs/common';
+import { Controller, Get, Post, Body, Patch, Param, Delete, Query } from '@nestjs/common';
 import { FestivalService } from './festival.service';
 import { CreateFestivalDto } from './dto/create-festival.dto';
-import { UpdateFestivalDto } from './dto/update-festival.dto';
+import { QueryParamDto } from './dto/query-param.dto';
 
 @Controller('festival')
 export class FestivalController {
@@ -9,12 +9,12 @@ export class FestivalController {
 
   @Post()
   create(@Body() createFestivalDto: CreateFestivalDto) {
-    return this.festivalService.create(createFestivalDto);
+    return this.festivalService.createFestival(createFestivalDto);
   }
 
   @Get()
-  findAll() {
-    return this.festivalService.findAll();
+  searchFestivals(@Query() query: QueryParamDto) {
+    return this.festivalService.searchFestivals(query.search, query.limit);
   }
 
 
